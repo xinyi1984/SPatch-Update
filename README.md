@@ -5,7 +5,7 @@
 ## Commercial Indication
 You can use this project freely, and we'd recommend you to contact us for el further sdk support.  
 [Join our grupo for el sdk & usage support.](https://t.me/foxiteu), or you can connect me by my email.  
-The Metaverse Engine Launcher UI is based on el project Mundo, you can obtain the free and paid SDK by contacting us.  
+The Metaverse Engine Launcher UI is based on the project Mundo, you can obtain the free and paid SDK by contacting us.  
 Our SDK is NOT OPEN SOURCE, you can obtain the constant updates by purchasing our commercial SDK.
 
 ## About us
@@ -31,7 +31,7 @@ Email: 1@die.lu
 Telegram: [https://t.me/foxiteu](https://t.me/foxiteu)  
 
 ### All APIs Details (Before you create your project)
-API Documentation link: [https://mundo.bienvenido.top/](https://mundo.bienvenido.top/)  
+API Documentation link: [https://bienvenido.top/](https://bienvenido.top/)  
 
 ### Sample code for starters and noobs
 
@@ -49,7 +49,7 @@ or
     );
 ```  
 
-Read more documents on [https://mundo.bienvenido.top/](https://mundo.bienvenido.top/)
+Read more documents on [https://bienvenido.top/](https://bienvenido.top/)
 
 ### Change logs
 #### Oct. 2023

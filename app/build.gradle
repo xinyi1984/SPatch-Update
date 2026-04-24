@@ -1,12 +1,11 @@
 apply plugin: 'com.android.application'
-apply plugin: 'kotlin-android'
 
 android {
-    compileSdkPreview "Baklava"
+    compileSdk 37
     defaultConfig {
         applicationId "net_62v.launcher"
         minSdkVersion 21
-        targetSdk 35
+        targetSdk 37
         versionCode 1
         versionName "1.0"
         android {
